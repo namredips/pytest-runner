@@ -1,0 +1,12 @@
+requests
+unittest2
+Faker
+fake2db
+pytest
+pyresttest
+locustio
+pymongo
+psycopg2
+redis
+flake8
+coverage
